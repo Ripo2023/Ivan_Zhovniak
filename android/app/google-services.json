@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415120062065",
+    "project_id": "konkurs-1f28e",
+    "storage_bucket": "konkurs-1f28e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415120062065:android:271613ccbc9a8cd2c68dd0",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415120062065-sqfjasnc7oecrpqg14lneuu3kt4vvvig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx9cNu9cUPQqwd28yV2Ut74fPVlZPnSW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415120062065-sqfjasnc7oecrpqg14lneuu3kt4vvvig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
