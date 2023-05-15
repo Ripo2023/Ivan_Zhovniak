@@ -1,0 +1,46 @@
+{
+    "coffee" : [
+        {
+             "name": "Cappucciono",
+             "price": "180",
+             "icon" : ""   
+        },
+        {
+            "name": "Espresso",
+            "price": "180",
+            "icon" : ""   
+       },
+       {
+        "name": "Latte",
+        "price": "180",
+        "icon" : ""   
+   },
+   {
+    "name": "Raff",
+    "price": "180",
+    "icon" : ""   
+}
+
+    ],
+    "tea":[
+        {
+            "name": "Latte",
+            "price": "180",
+            "icon" : ""   
+       }
+    ],
+    "Drinks":[
+        {
+            "name": "Latte",
+            "price": "180",
+            "icon" : ""   
+       }
+    ],
+    "Desserts":[
+        {
+            "name": "Latte",
+            "price": "180",
+            "icon" : ""   
+       }
+    ]
+}

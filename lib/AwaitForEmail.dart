@@ -1,3 +1,4 @@
+import 'package:app/MainInterface.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter_svg/flutter_svg.dart';
@@ -117,6 +118,11 @@ class _AwaitForEmail extends State<AwaitForEmail> {
                     print("OKKK");
                     savePrefs(widget.number.toString(), code);
                     SignIn();
+                    Navigator.pop(context);
+                    Navigator.pop(context);
+                    Navigator.pop(context);
+                    Navigator.of(context).push(MaterialPageRoute(
+                        builder: (context) => MainInterface()));
                   }
                 },
                 child: Text("Sign in")),

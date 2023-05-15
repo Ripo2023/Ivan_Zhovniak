@@ -1,33 +1,34 @@
 {
   "project_info": {
-    "project_number": "415120062065",
-    "project_id": "konkurs-1f28e",
-    "storage_bucket": "konkurs-1f28e.appspot.com"
+    "project_number": "106248737158",
+    "firebase_url": "https://konkurs1-61be2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "konkurs1-61be2",
+    "storage_bucket": "konkurs1-61be2.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:415120062065:android:271613ccbc9a8cd2c68dd0",
+        "mobilesdk_app_id": "1:106248737158:android:078aa4974dfe984e849c07",
         "android_client_info": {
           "package_name": "com.example.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "415120062065-sqfjasnc7oecrpqg14lneuu3kt4vvvig.apps.googleusercontent.com",
+          "client_id": "106248737158-mgdtq4enq35j8jtfbaeuvm65241jur53.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCx9cNu9cUPQqwd28yV2Ut74fPVlZPnSW8"
+          "current_key": "AIzaSyAWf2q-y_q8oag6SzFDarKjP1q9DJ_f0bI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "415120062065-sqfjasnc7oecrpqg14lneuu3kt4vvvig.apps.googleusercontent.com",
+              "client_id": "106248737158-mgdtq4enq35j8jtfbaeuvm65241jur53.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

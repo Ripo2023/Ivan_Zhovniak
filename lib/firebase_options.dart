@@ -53,10 +53,11 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCx9cNu9cUPQqwd28yV2Ut74fPVlZPnSW8',
-    appId: '1:415120062065:android:271613ccbc9a8cd2c68dd0',
-    messagingSenderId: '415120062065',
-    projectId: 'konkurs-1f28e',
-    storageBucket: 'konkurs-1f28e.appspot.com',
+    apiKey: 'AIzaSyAWf2q-y_q8oag6SzFDarKjP1q9DJ_f0bI',
+    appId: '1:106248737158:android:078aa4974dfe984e849c07',
+    messagingSenderId: '106248737158',
+    projectId: 'konkurs1-61be2',
+    databaseURL: 'https://konkurs1-61be2-default-rtdb.europe-west1.firebasedatabase.app',
+    storageBucket: 'konkurs1-61be2.appspot.com',
   );
 }

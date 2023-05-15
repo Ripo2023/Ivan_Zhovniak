@@ -44,7 +44,7 @@ class _MyHomeState extends State<MyHome> {
     var code = await prefs.getString('code');
     var number = await prefs.getString('number');
     if (code != null || code != "") {
-      return true;
+      return false;
     } else {
       return false;
     }
